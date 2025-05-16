@@ -21,7 +21,7 @@ A multi-tab browser app built for Android using Java. Allows users to open, navi
 ## ▶️ Run the App
 
 ```bash
-git clone https://github.com/yourusername/WebBrowserApp.git
+git clone https://github.com/egezturkk/WebBrowserApp.git
 
 Then:
 
